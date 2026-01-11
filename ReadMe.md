@@ -28,13 +28,9 @@ Automated data preprocessing and analysis pipelines, reducing manual interventio
 
 Applied ML to logistics and sustainability-focused problems with real constraints
 
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dj0804&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dj0804&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dj0804&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dj0804&icon=0&color=0)](https://visitcount.itsvg.in)
