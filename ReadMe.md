@@ -10,15 +10,22 @@ I am a Machine Learning Intern dedicated to the transition from 'model training'
 
 # What I Actually Build
 End-to-end ML systems: data ingestion → preprocessing → modeling → evaluation → deployment
+
 Time-series forecasting pipelines designed for large-scale, noisy, real-world datasets
+
 ML-backed APIs and dashboards consumed by non-technical stakeholders
+
 GenAI-powered features integrated into existing products, not one-off demos
+
 Systems built with a production-first mindset: robustness, scalability, and maintainability over just accuracy
 
 # Impact Highlights
 Worked with datasets spanning 100k+ real-world entities
+
 Built forecasting models used for operational and planning decisions
+
 Automated data preprocessing and analysis pipelines, reducing manual intervention
+
 Applied ML to logistics and sustainability-focused problems with real constraints
 
 #  GitHub Stats:
